@@ -1,0 +1,28 @@
+FORD2385 Mustang Ford 12 45000.00, First 4 characters in the ID are not all letters or has O
+HOND1572 Accord Honda 20 30000.00, First 4 characters in the ID are not all letters or has O
+TOYT3481 Corolla Toyota 15 28000.00, First 4 characters in the ID are not all letters or has O
+BMWW5267 X5 BMW 10 65000.00, Model is less than 3 characters
+AUDI7435 A4 Audi 18 43000.00, Model is less than 3 characters
+DODG5632 Charger Dodge 9 41000.00, First 4 characters in the ID are not all letters or has O
+FERR6523 F8 Ferrari 3 280000.00, Model is less than 3 characters
+VOLK3749 Golf Volkswagen 22 27000.00, First 4 characters in the ID are not all letters or has O
+PORC6754 911 Porsche 2 120000.00, First 4 characters in the ID are not all letters or has O, Model is not only alphanumeric or starts with number
+VOLV8723 XC90 Volvo 13 56000.00, First 4 characters in the ID are not all letters or has O
+VBNM4321 RX Mazda 7 16000.00, Model is less than 3 characters
+MPKZ1205 RX5 Mazda 10 15000.00, Last 4 characters in the ID are not all numeric or has 0
+ABCD2340 R9X Nissan 3 14000.00, Last 4 characters in the ID are not all numeric or has 0
+QWER1111 A1 Audi 2 12000.00, Model is less than 3 characters, Price is less than or equal to 12,999.00
+ZXCV5678 9Car BadManufac 4 18000.00, Model is not only alphanumeric or starts with number
+TYUI3456 Camry Toyota -5 20000.00, Quantity is less than 0
+HGFE7654 Mustang Ford 1 12999.00, Price is less than or equal to 12,999.00
+UIOP1234 Civic Honda 4 13500.00, First 4 characters in the ID are not all letters or has O
+OPLK1276 Sorento Kia 0 14500.00, First 4 characters in the ID are not all letters or has O
+MKOI8765 Elantra Hyundai 3 14000.00, First 4 characters in the ID are not all letters or has O
+OOOO0000 TA BadManufac -1 1000.00, First 4 characters in the ID are not all letters or has O, Last 4 characters in the ID are not all numeric or has 0, Model is less than 3 characters, Quantity is less than 0, Price is less than or equal to 12,999.00
+AAAA AAA BadManufac 0 13000.00, ID is not 8 characters long
+OOOO1111 AAA BadManufac 0 13000.00, First 4 characters in the ID are not all letters or has O
+AAAA0000 AAA BadManufac 0 13000.00, Last 4 characters in the ID are not all numeric or has 0
+AAAA1111 AA BadManufac 0 13000.00, Model is less than 3 characters
+AAAA1111 1AA BadManufac 0 13000.00, Model is not only alphanumeric or starts with number
+AAAA1111 AAA BadManufac -1 13000.00, Quantity is less than 0
+AAAA1111 AAA BadManufac 0 0.00, Price is less than or equal to 12,999.00
