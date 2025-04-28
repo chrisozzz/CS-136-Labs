@@ -1,0 +1,38 @@
+"Unbalanced 'A (test] [check} '{done}"
+(hkj   hkj{hj  shj})
+(hkj   hkj{)hj  shj}
+[abc {def (ghi)}]
+[abc {def (ghi])}
+"Hello"
+"Unclosed string"
+'XXXX'
+'Y'
+/* Nested properly in this case here and it exceeds the limit */
+<!--/*{ Hello this expression (is 60 character long)}[]*/-->
+/( [ { } ] )
+( [ { ] } )
+"Balanced 'A' (test) [check] {done}"
+"Unbalanced 'A (test] [check} {done}"
+<!--HELLLO-->
+/*HELLO*/
+<!--wRONG
+/*wRONG
+*/WRONG
+-->LSDKFJ
+)
+}
+"'X'"
+""
+''
+""""
+''''
+'"'"
+'A''A'
+<!--"/*({['A']})*/"-->
+<!--<!--AA-->-->
+/*/*/*AA*/*/*/
+AAAAAAAAAAAA
+""""""""""""""
+''''''''''''
+"""""""""""""""
+'''''''''''''
