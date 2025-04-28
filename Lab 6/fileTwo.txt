@@ -1,0 +1,4 @@
+Hello, this is a test file.
+Everything should be identical except for one letter.
+Let's see if the program can detect it!
+This line has an 'o'. blah blah blah
