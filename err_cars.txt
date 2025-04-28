@@ -1,0 +1,18 @@
+AAAA AAA 0 13000, ID is not 8 characters long
+OOOO1111 AAA 0 13000, First 4 characters in the ID are not all letters or has O
+AAAA0000 AAA 0 13000, Last 4 characters in the ID are not all numeric or has 0
+AAAA1111 AA 0 13000, Model is less than 3 characters
+AAAA1111 1AA 0 13000, Model is not only alphanumeric or starts with number
+AAAA1111 AAA -1 13000, Quantity is less than 0
+AAAA1111 AAA 0 0, Price is less than or equal to 12,999.00
+MPKZ1205 RX5 10 15000.00, Last 4 characters in the ID are not all numeric or has 0
+ABCD2340 R9X 3 14000.00, Last 4 characters in the ID are not all numeric or has 0
+QWER1111 A1 2 12000.00, Model is less than 3 characters, Price is less than or equal to 12,999.00
+ZXCV5678 9Car 4 18000.00, Model is not only alphanumeric or starts with number
+TYUI3456 Camry -5 20000.00, Quantity is less than 0
+HGFE7654 Mustang 1 12999.00, Price is less than or equal to 12,999.00
+VBNM4321 RX 7 16000.00, Model is less than 3 characters
+UIOP1234 Civic 4 13500.00, First 4 characters in the ID are not all letters or has O
+OPLK1276 Sorento 0 14500.00, First 4 characters in the ID are not all letters or has O
+MKOI8765 Elantra 3 14000.00, First 4 characters in the ID are not all letters or has O
+OOOO0000 TA -1 1000.00, First 4 characters in the ID are not all letters or has O, Last 4 characters in the ID are not all numeric or has 0, Model is less than 3 characters, Quantity is less than 0, Price is less than or equal to 12,999.00
